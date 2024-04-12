@@ -31,3 +31,5 @@ lspconfig.nil_ls.setup {
 	},
   },
 }
+
+lspconfig.ccls.setup {}
