@@ -33,3 +33,9 @@ lspconfig.nil_ls.setup {
 }
 
 lspconfig.ccls.setup {}
+
+lspconfig.html.setup {}
+
+lspconfig.htmx.setup {}
+
+lspconfig.gopls.setup {}
